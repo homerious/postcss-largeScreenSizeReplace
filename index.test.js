@@ -16,5 +16,5 @@ it('does something', async () => {
 
 */
 it('does something', async () => {
-  await run('a{ font-size: 48px }', 'a{ font-size: 0.62vw }', { width: 7680 })
+  await run('a{ font-size: 48px }', 'a{ font-size: 0.63vw }', { width: 7680 })
 })
